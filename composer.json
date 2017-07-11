@@ -1,0 +1,7 @@
+{
+    "name": "sylvain/cv",
+    "description": "CV",
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
