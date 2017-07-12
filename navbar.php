@@ -24,7 +24,7 @@ function getNav(){
                 <a class="nav-link" href="parcours.php">Mon parcours</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="hobbies.php">Mes passions</a>
+                <a class="nav-link" href="activities.php">Mes activités</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact.php">Me contacter</a>

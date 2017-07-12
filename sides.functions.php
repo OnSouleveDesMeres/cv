@@ -93,3 +93,27 @@ HTML;
     return $side;
 
 }
+
+function getSideAct(){
+
+        $side =<<<HTML
+<div class="col-lg-2 hidden-md-down sides">
+            <div class="stickcontent infos">
+                <ul class="liste">
+                    <li>
+                        <h4><a href="#sport">SPORT</a></h4>
+                    </li>
+                    <li>
+                        <h4><a href="#info">INFORMATIQUE</a></h4>
+                    </li>
+                    <li>
+                        <h4><a href="#social">SOCIAL</a></h4>
+                    </li>
+                </ul>
+            </div>
+        </div>
+HTML;
+
+    return $side;
+
+}

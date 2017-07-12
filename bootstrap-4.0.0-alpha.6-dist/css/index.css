@@ -122,3 +122,12 @@ h4 > a, ul > ul > li > a {
     color: white;
     font-weight: bolder;
 }
+
+@media screen and (min-width: 1281px){
+    #job{
+        border-right: 1px solid white;
+    }
+    #etude{
+        border-left: 1px solid white;
+    }
+}
